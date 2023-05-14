@@ -4,7 +4,6 @@ import java.util.Objects;
 
 public class Human {
     protected String name;
-    protected Human head;
     protected String surname;
     protected String patronymic;
     protected Sex sex;

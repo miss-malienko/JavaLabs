@@ -3,7 +3,6 @@ package Model;
 import java.util.Objects;
 
 public class Student extends Human{
-    private String name;
     private Human head;
     private int recordBookNumber;
     public int recordBookNumber() {
