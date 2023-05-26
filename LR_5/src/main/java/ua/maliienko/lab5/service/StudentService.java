@@ -1,7 +1,7 @@
-package ua.maliienko.lab5.service;
-import ua.maliienko.lab5.exception.DBException;
-import ua.maliienko.lab5.DBManager;
-import ua.maliienko.lab5.student.Student;
+package main.java.ua.maliienko.lab5.service;
+import main.java.ua.maliienko.lab5.exception.DBException;
+import main.java.ua.maliienko.lab5.DBManager;
+import main.java.ua.maliienko.lab5.student.Student;
 
 import java.sql.Date;
 import java.util.List;

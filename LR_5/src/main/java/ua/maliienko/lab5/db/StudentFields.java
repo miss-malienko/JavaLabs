@@ -1,4 +1,4 @@
-package ua.maliienko.lab5.db;
+package main.java.ua.maliienko.lab5.db;
 /**Назви стовпців у таблиці student*/
 public class StudentFields {
 

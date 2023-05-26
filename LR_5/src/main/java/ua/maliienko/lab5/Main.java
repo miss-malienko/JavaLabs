@@ -1,4 +1,4 @@
-package ua.maliienko.lab5;
+package main.java.ua.maliienko.lab5;
 
 import ua.maliienko.lab5.student.Student;
 import ua.maliienko.lab5.exception.DBException;

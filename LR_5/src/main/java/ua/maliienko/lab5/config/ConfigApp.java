@@ -1,4 +1,4 @@
-package ua.maliienko.lab5.config;
+package main.java.ua.maliienko.lab5.config;
 
 import java.io.FileInputStream;
 import java.io.IOException;

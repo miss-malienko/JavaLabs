@@ -1,4 +1,4 @@
-package ua.maliienko.lab5.student;
+package main.java.ua.maliienko.lab5.student;
 
 import lombok.*;
 
